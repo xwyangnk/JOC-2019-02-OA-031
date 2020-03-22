@@ -1,7 +1,7 @@
 # JOC-2019-02-OA-031
 Data and Code used to generate numerical results in the paper "A Computational Approach to First Passage Problems of Reflected Hyper-Exponential Jump Diffusion Processes," which is forthcoming at the INFORMS Journal on Computing.
 
-All Data are store in .mat format of MATLAB. All algorithms are coded in MATLAB 2017a.
+All data are store in .mat format of MATLAB. All algorithms are coded in MATLAB 2017a.
 
 One need first install the MATLAB "Multiprecision Computing Toolbox," which is available at https://www.advanpix.com.
 
