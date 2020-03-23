@@ -1,7 +1,7 @@
 # RHEP-JOC
-Data and Code used to generate numerical results in the paper "A Computational Approach to First Passage Problems of Reflected Hyper-Exponential Jump Diffusion Processes," which is forthcoming at the INFORMS Journal on Computing.
+MATLAB code used to generate numerical results in the paper "A Computational Approach to First Passage Problems of Reflected Hyper-Exponential Jump Diffusion Processes," which is forthcoming at the INFORMS Journal on Computing.
 
-All algorithms are coded in MATLAB 2017a. All data and intermediate results are store in .mat format of MATLAB. 
+All algorithms are coded in MATLAB 2017a. All intermediate results are saved in .mat format of MATLAB. 
 
 Users should first install the MATLAB "Multiprecision Computing Toolbox," which is available at https://www.advanpix.com.
 
